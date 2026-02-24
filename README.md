@@ -1,4 +1,4 @@
-# 🎵 spoai
+# 🎵 Listify AI
 
 AI destekli Spotify playlist oluşturucu. Groq AI (LLaMA 3.3) ile istediğin tarza, ruh haline veya aktiviteye göre kişiselleştirilmiş playlist önerileri alırsın ve direkt Spotify hesabına kaydedersin.
 
