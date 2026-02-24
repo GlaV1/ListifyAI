@@ -64,4 +64,4 @@ npm run dev
 
 ## Lisans
 
-MIT
+📜 Lisans Bu proje MIT Lisansı ile lisanslanmıştır. Eğitim ve geliştirme amaçlıdır.
