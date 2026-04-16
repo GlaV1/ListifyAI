@@ -23,7 +23,7 @@ AI destekli Spotify playlist oluşturucu. Groq AI (LLaMA 3.3) ile istediğin tar
 
 1. Repoyu klonla:
 ```bash
-git clone https://github.com/GlaV1/spoai.git
+git clone https://github.com/GlaV1/ListifyAI.git
 cd spoai
 npm install
 ```
